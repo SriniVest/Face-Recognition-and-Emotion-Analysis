@@ -1,3 +1,5 @@
+The Contents of this repository are taken from : https://github.com/oarriaga/face_classification
+
 # Face Recognition and Emotion Recognition 
 Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV.
 
