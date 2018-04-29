@@ -3,6 +3,8 @@ Some of the contents of this repository are taken from : https://github.com/oarr
 # Face Recognition and Emotion Recognition 
 Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV.
 
+All the codes are in the 'src' folder.
+
 ## Instructions
 
 ### Run real-time emotion demo:
