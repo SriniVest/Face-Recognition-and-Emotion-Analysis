@@ -8,7 +8,7 @@
 
 ## Instructions
 
-* ```guif.py``` contains the code for query and metadata processing.
+* ```guif.py``` (GUI). Also contains the code for query and metadata processing.
 
 * ```speechrec.py``` uses google's speech to text api for converting spoken words to text.
 
