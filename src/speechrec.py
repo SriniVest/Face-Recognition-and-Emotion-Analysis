@@ -17,7 +17,8 @@ with sr.Microphone() as source:
         entry1.delete(0, END)
         entry1.insert(0, message)
         words = message.split()
-        
+        print(words)
+'''        
         for i in range(len(actors)):
             for j in range (len(words)):
                 if words[j]==actors[i]:
@@ -40,7 +41,7 @@ with sr.Microphone() as source:
         for i in range(len(objects)):
             print (v3[i])
         mget2
-                
+'''                
     except sr.UnknownValueError:
         print('Google Speech Recognition could not understand audio')
 
