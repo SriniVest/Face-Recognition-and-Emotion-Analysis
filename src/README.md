@@ -24,4 +24,4 @@
 > python guif-6.py
 
 
-*The metadata for a particular video on the HDD can be created using the *'select a file'* button on the GUI.
+* The metadata for a particular video on the HDD can be created using the *'select a file'* button on the GUI.
